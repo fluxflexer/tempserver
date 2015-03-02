@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="samathnaur_tempserver">
+    <serverData>
+      <paths name="vinyamar_tempserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/cgi-bin" local="$PROJECT_DIR$/cgi-bin" web="/cgi-bin/tempserver/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
